@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2d077182","path":"/notes/CS/Base/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%B5%B7%E6%AD%A5/01.%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/%E5%AE%89%E8%A3%85vscode%E6%89%A9%E5%B1%95.html","title":"安装vscode扩展","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"notes/CS/Base/操作系统起步/01.环境搭建/安装vscode扩展.md"}');export{e as data};

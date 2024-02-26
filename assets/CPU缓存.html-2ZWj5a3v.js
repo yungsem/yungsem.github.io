@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ebd228c2","path":"/notes/CS/Base/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/01.%E5%A4%84%E7%90%86%E5%99%A8%E6%9E%B6%E6%9E%84/CPU%E7%BC%93%E5%AD%98.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"notes/CS/Base/汇编语言/01.处理器架构/CPU缓存.md"}');export{e as data};

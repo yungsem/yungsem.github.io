@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-78961d7c","path":"/notes/CS/Base/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%B5%B7%E6%AD%A5/01.%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/%E5%AE%89%E8%A3%85qemu.html","title":"安装qemu","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"notes/CS/Base/操作系统起步/01.环境搭建/安装qemu.md"}');export{e as data};

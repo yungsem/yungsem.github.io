@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c5f9836a","path":"/notes/Socienty/%E5%8E%86%E5%8F%B2/01.%E4%B8%8A%E5%8F%A4%E4%BC%A0%E8%AF%B4/%E4%B8%89%E7%9A%87%E6%97%B6%E6%9C%9F.html","title":"三皇时期","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"notes/Socienty/历史/01.上古传说/三皇时期.md"}');export{t as data};

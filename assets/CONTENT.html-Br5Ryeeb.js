@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-368a8d0a","path":"/notes/Socienty/%E5%8E%86%E5%8F%B2/00.%E7%9B%AE%E5%BD%95/CONTENT.html","title":"","lang":"zh-CN","frontmatter":{"sidebar":false},"headers":[],"git":{},"filePathRelative":"notes/Socienty/历史/00.目录/CONTENT.md"}');export{t as data};

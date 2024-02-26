@@ -1,0 +1,2 @@
+import{_ as e,o as s,c as t,e as a}from"./app-E0L7GO9D.js";const n={},c=a(`<h1 id="创建-ssh-密钥" tabindex="-1"><a class="header-anchor" href="#创建-ssh-密钥" aria-hidden="true">#</a> 创建 ssh 密钥</h1><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>ssh-keygen -t rsa -C &quot;yungsem@126.com&quot;
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>`,2),r=[c];function d(i,o){return s(),t("div",null,r)}const l=e(n,[["render",d],["__file","创建ssh密钥.html.vue"]]);export{l as default};
