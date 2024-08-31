@@ -1,0 +1,11 @@
+import{_ as a,c as s,o as e,a4 as n}from"./chunks/framework.4aTu-Nia.js";const k=JSON.parse('{"title":"安装cmake","description":"","frontmatter":{},"headers":[],"relativePath":"note/计算机/操作系统起步/01.环境搭建/安装cmake.md","filePath":"note/计算机/操作系统起步/01.环境搭建/安装cmake.md"}'),t={name:"note/计算机/操作系统起步/01.环境搭建/安装cmake.md"},p=n(`<h1 id="安装cmake" tabindex="-1">安装cmake <a class="header-anchor" href="#安装cmake" aria-label="Permalink to &quot;安装cmake&quot;">​</a></h1><p>使用 homebrew 安装 cmake ，先到 <a href="https://formulae.brew.sh/formula/cmake#default" target="_blank" rel="noreferrer">homebrew</a> 官网查看 cmake 安装命令：</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>brew install cmake</span></span></code></pre></div><p>验证：</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>cmake</span></span></code></pre></div><p>输出如下内容表示安装成功：</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>Usage</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>  cmake [options] &lt;path-to-source&gt;</span></span>
+<span class="line"><span>  cmake [options] &lt;path-to-existing-build&gt;</span></span>
+<span class="line"><span>  cmake [options] -S &lt;path-to-source&gt; -B &lt;path-to-build&gt;</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>Specify a source directory to (re-)generate a build system for it in the</span></span>
+<span class="line"><span>current working directory.  Specify an existing build directory to</span></span>
+<span class="line"><span>re-generate its build system.</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>Run &#39;cmake --help&#39; for more information.</span></span></code></pre></div>`,7),i=[p];function c(o,l,r,d,h,m){return e(),s("div",null,i)}const g=a(t,[["render",c]]);export{k as __pageData,g as default};
