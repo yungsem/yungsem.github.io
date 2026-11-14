@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>分类 on 一个角落</title>
-    <link>/categories/</link>
-    <description>Recent content in 分类 on 一个角落</description>
+    <title>分类 on yungsem</title>
+    <link>https://yungsem.github.io/categories/</link>
+    <description>Recent content in 分类 on yungsem</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh</language>
-    <copyright>-秋水刻剑-</copyright>
+    <copyright>秋水刻剑</copyright>
     <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0800</lastBuildDate>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yungsem.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>修身</title>
-      <link>/categories/%E4%BF%AE%E8%BA%AB/</link>
+      <link>https://yungsem.github.io/categories/%E4%BF%AE%E8%BA%AB/</link>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-      <guid>/categories/%E4%BF%AE%E8%BA%AB/</guid>
+      <guid>https://yungsem.github.io/categories/%E4%BF%AE%E8%BA%AB/</guid>
       <description></description>
     </item>
   </channel>
